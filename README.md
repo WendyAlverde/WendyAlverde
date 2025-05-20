@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello ! Moi c’est Wendy
 
-<!--
-**WendyAlverde/WendyAlverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Développeuse Web Freelance spécialisée en intégration front-end  
+🌱 Actuellement en pleine évolution sur React, Svelte & SCSS  
+📍 Basée à Horbourg-Wihr / Colmar – Ouverte aux projets à distance
 
-Here are some ideas to get you started:
+## 💻 Technologies principales
+- HTML / CSS / SCSS
+- JavaScript
+- Svelte & React
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Projets récents
+- Site vitrine pour un expert automobile
+- Backoffice pour association de yoga 🧘
+- Portfolio personnel (bientôt en ligne !)
+
+## 📫 Me contacter
+- 📧 alverdew@gmail.com
+- 📱 07 84 58 83 43
+- 💼 https://www.linkedin.com/in/wendy-alverde/
