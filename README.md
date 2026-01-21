@@ -11,6 +11,7 @@
 - Git / GitHub
 
 ## 🛠 Projets récents
+- Site vitrine pour une association d'escrime
 - Site vitrine pour un expert automobile
 - Backoffice pour association de yoga 🧘
 - Portfolio personnel (bientôt en ligne !)
