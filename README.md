@@ -14,9 +14,9 @@
 - Site vitrine pour une association d'escrime
 - Site vitrine pour un expert automobile
 - Backoffice pour association de yoga 🧘
-- Portfolio personnel (bientôt en ligne !)
+- Portfolio personnel
 
 ## 📫 Me contacter
-- 📧 alverdew@gmail.com
+- 📧 wendy.alverde98@gmail.com
 - 📱 07 84 58 83 43
 - 💼 https://www.linkedin.com/in/wendy-alverde/
